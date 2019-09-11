@@ -1,0 +1,36 @@
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_api\bin\Debug\netcoreapp2.1\sis_receiver_library.dll
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_api\obj\Debug\netcoreapp2.1\sis_receiver_api.csprojAssemblyReference.cache
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_api\obj\Debug\netcoreapp2.1\sis_receiver_api.csproj.CoreCompileInputs.cache
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_api\obj\Debug\netcoreapp2.1\sis_receiver_api.RazorAssemblyInfo.cache
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_api\obj\Debug\netcoreapp2.1\sis_receiver_api.RazorAssemblyInfo.cs
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_api\obj\Debug\netcoreapp2.1\sis_receiver_api.AssemblyInfoInputs.cache
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_api\obj\Debug\netcoreapp2.1\sis_receiver_api.AssemblyInfo.cs
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_api\obj\Debug\netcoreapp2.1\sis_receiver_api.RazorTargetAssemblyInfo.cache
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_api\bin\Debug\netcoreapp2.1\sis_receiver_api.deps.json
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_api\bin\Debug\netcoreapp2.1\sis_receiver_api.runtimeconfig.json
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_api\bin\Debug\netcoreapp2.1\sis_receiver_api.runtimeconfig.dev.json
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_api\bin\Debug\netcoreapp2.1\sis_receiver_api.dll
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_api\bin\Debug\netcoreapp2.1\sis_receiver_api.pdb
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_api\bin\Debug\netcoreapp2.1\sis_receiver_library.pdb
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_api\obj\Debug\netcoreapp2.1\sis_receiver_api.csproj.CopyComplete
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_api\obj\Debug\netcoreapp2.1\sis_receiver_api.dll
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_api\obj\Debug\netcoreapp2.1\sis_receiver_api.pdb
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_api\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_api\bin\Debug\netcoreapp2.1\Config\appsettings.5001.json
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_api\bin\Debug\netcoreapp2.1\sis_receiver_api.deps.json
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_api\bin\Debug\netcoreapp2.1\sis_receiver_api.runtimeconfig.json
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_api\bin\Debug\netcoreapp2.1\sis_receiver_api.runtimeconfig.dev.json
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_api\bin\Debug\netcoreapp2.1\sis_receiver_api.dll
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_api\bin\Debug\netcoreapp2.1\sis_receiver_api.pdb
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_api\bin\Debug\netcoreapp2.1\sis_receiver_library.dll
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_api\bin\Debug\netcoreapp2.1\sis_receiver_library.pdb
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_api\obj\Debug\netcoreapp2.1\sis_receiver_api.csprojAssemblyReference.cache
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_api\obj\Debug\netcoreapp2.1\sis_receiver_api.csproj.CoreCompileInputs.cache
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_api\obj\Debug\netcoreapp2.1\sis_receiver_api.RazorAssemblyInfo.cache
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_api\obj\Debug\netcoreapp2.1\sis_receiver_api.RazorAssemblyInfo.cs
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_api\obj\Debug\netcoreapp2.1\sis_receiver_api.AssemblyInfoInputs.cache
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_api\obj\Debug\netcoreapp2.1\sis_receiver_api.AssemblyInfo.cs
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_api\obj\Debug\netcoreapp2.1\sis_receiver_api.RazorTargetAssemblyInfo.cache
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_api\obj\Debug\netcoreapp2.1\sis_receiver_api.csproj.CopyComplete
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_api\obj\Debug\netcoreapp2.1\sis_receiver_api.dll
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_api\obj\Debug\netcoreapp2.1\sis_receiver_api.pdb

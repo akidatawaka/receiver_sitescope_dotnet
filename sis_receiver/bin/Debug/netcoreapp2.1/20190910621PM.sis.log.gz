@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<performanceMonitors collector="SiteScope" collectorHost="KPEIISIS01">
+    <group name="DC" desc="">
+        <group name="e-clears" desc="">
+            <group name="KPEITEST01" desc="">
+                <monitor type="Memory" target="KPEIISIS01" targetIP="172.16.11.138" time="1568114507857" quality="1" name="Memory">
+                    <counter value="18" quality="0" name="percent used"/>
+                    <counter value="7706" quality="0" name="MB free"/>
+                    <counter value="0.0" quality="0" name="pages/sec"/>
+                    <counter value="18" quality="1" name="virtual memory used %"/>
+                    <counter value="7706" quality="0" name="virtual memory MB free"/>
+                    <counter value="n/a" quality="0" status="0" name="physical memory used %"/>
+                    <counter value="n/a" quality="0" status="0" name="physical memory MB free"/>
+                </monitor>
+                <monitor type="Dynamic Disk Space" target="KPEIISIS01" targetIP="172.16.11.138" time="1568114509685" quality="1" name="Dynamic Disk">
+                    <counter value="0" quality="1" name="counters in error"/>
+                    <counter value="23.738" quality="1" name="Disk/File System/[C]/percent full"/>
+                    <counter value="46586" quality="0" name="Disk/File System/[C]/MB free"/>
+                    <counter value="61087" quality="0" name="Disk/File System/[C]/MB total"/>
+                    <counter value="75.072" quality="1" name="Disk/File System/[HarddiskVolume1]/percent full"/>
+                    <counter value="87" quality="0" name="Disk/File System/[HarddiskVolume1]/MB free"/>
+                    <counter value="349" quality="0" name="Disk/File System/[HarddiskVolume1]/MB total"/>
+                </monitor>
+            </group>
+        </group>
+    </group>
+</performanceMonitors>

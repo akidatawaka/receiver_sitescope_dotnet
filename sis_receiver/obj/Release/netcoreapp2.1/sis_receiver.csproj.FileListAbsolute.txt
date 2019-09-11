@@ -1,0 +1,16 @@
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver\bin\Release\netcoreapp2.1\appsettings.json
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver\bin\Release\netcoreapp2.1\Config\appsettings.01.json
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver\bin\Release\netcoreapp2.1\sis_receiver.deps.json
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver\bin\Release\netcoreapp2.1\sis_receiver.runtimeconfig.json
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver\bin\Release\netcoreapp2.1\sis_receiver.runtimeconfig.dev.json
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver\bin\Release\netcoreapp2.1\sis_receiver.dll
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver\bin\Release\netcoreapp2.1\sis_receiver.pdb
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver\bin\Release\netcoreapp2.1\sis_receiver_library.dll
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver\bin\Release\netcoreapp2.1\sis_receiver_library.pdb
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver\obj\Release\netcoreapp2.1\sis_receiver.csprojAssemblyReference.cache
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver\obj\Release\netcoreapp2.1\sis_receiver.csproj.CoreCompileInputs.cache
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver\obj\Release\netcoreapp2.1\sis_receiver.AssemblyInfoInputs.cache
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver\obj\Release\netcoreapp2.1\sis_receiver.AssemblyInfo.cs
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver\obj\Release\netcoreapp2.1\sis_receiver.csproj.CopyComplete
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver\obj\Release\netcoreapp2.1\sis_receiver.dll
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver\obj\Release\netcoreapp2.1\sis_receiver.pdb

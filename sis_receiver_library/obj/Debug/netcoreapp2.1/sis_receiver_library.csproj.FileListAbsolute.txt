@@ -1,0 +1,17 @@
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_library\bin\Debug\netcoreapp2.1\sis_receiver_library.deps.json
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_library\bin\Debug\netcoreapp2.1\sis_receiver_library.dll
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_library\obj\Debug\netcoreapp2.1\sis_receiver_library.csprojAssemblyReference.cache
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_library\obj\Debug\netcoreapp2.1\sis_receiver_library.csproj.CoreCompileInputs.cache
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_library\obj\Debug\netcoreapp2.1\sis_receiver_library.AssemblyInfoInputs.cache
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_library\obj\Debug\netcoreapp2.1\sis_receiver_library.AssemblyInfo.cs
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_library\bin\Debug\netcoreapp2.1\sis_receiver_library.pdb
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_library\obj\Debug\netcoreapp2.1\sis_receiver_library.dll
+C:\Repository\kpei_dashboard\receiver\sitescope\sis_receiver_library\obj\Debug\netcoreapp2.1\sis_receiver_library.pdb
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_library\bin\Debug\netcoreapp2.1\sis_receiver_library.deps.json
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_library\bin\Debug\netcoreapp2.1\sis_receiver_library.dll
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_library\bin\Debug\netcoreapp2.1\sis_receiver_library.pdb
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_library\obj\Debug\netcoreapp2.1\sis_receiver_library.csproj.CoreCompileInputs.cache
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_library\obj\Debug\netcoreapp2.1\sis_receiver_library.AssemblyInfoInputs.cache
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_library\obj\Debug\netcoreapp2.1\sis_receiver_library.AssemblyInfo.cs
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_library\obj\Debug\netcoreapp2.1\sis_receiver_library.dll
+D:\Akida Tawaka\dotnet\mandiri_dashboard\receiver\sitescope\sis_receiver_library\obj\Debug\netcoreapp2.1\sis_receiver_library.pdb
